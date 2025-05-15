@@ -31,6 +31,12 @@ namespace MyPortfolioUdemy.Controllers
         public IActionResult DeleteToDoList(int id)
         {
             var value = context.ToDoLists.Find(id);
+
+            if (value == null)
+            {
+                return NotFound(); 
+            }
+
             context.ToDoLists.Remove(value);
             context.SaveChanges();
             return RedirectToAction("Index");
@@ -54,17 +60,31 @@ namespace MyPortfolioUdemy.Controllers
         public IActionResult ChangeToDoListStatusToTrue(int id)
         {
             var value = context.ToDoLists.Find(id);
+
+            if (value == null)
+            {
+                return NotFound();
+            }
+
             value.Status = true;
             context.SaveChanges();
             return RedirectToAction("Index");
         }
 
+
         public IActionResult ChangeToDoListStatusToFalse(int id)
         {
             var value = context.ToDoLists.Find(id);
+
+            if (value == null)
+            {
+                return NotFound();
+            }
+
             value.Status = false;
             context.SaveChanges();
             return RedirectToAction("Index");
         }
+
     }
 }

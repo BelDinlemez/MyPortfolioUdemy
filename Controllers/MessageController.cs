@@ -14,6 +14,12 @@ namespace MyPortfolioUdemy.Controllers
         public IActionResult ChangeIsReadToTrue(int id)
         {
             var value = context.Messages.Find(id);
+
+            if (value == null)
+            {
+                return NotFound(); 
+            }
+
             value.IsRead = true;
             context.SaveChanges();
             return RedirectToAction("Inbox");
@@ -22,6 +28,12 @@ namespace MyPortfolioUdemy.Controllers
         public IActionResult ChangeIsReadToFalse(int id)
         {
             var value = context.Messages.Find(id);
+
+            if (value == null)
+            {
+                return NotFound(); // veya View("Error")
+            }
+
             value.IsRead = false;
             context.SaveChanges();
             return RedirectToAction("Inbox");
@@ -30,6 +42,12 @@ namespace MyPortfolioUdemy.Controllers
         public IActionResult DeleteMessage(int id)
         {
             var value = context.Messages.Find(id);
+
+            if (value == null)
+            {
+                return NotFound(); 
+            }
+
             context.Messages.Remove(value);
             context.SaveChanges();
             return RedirectToAction("Inbox");

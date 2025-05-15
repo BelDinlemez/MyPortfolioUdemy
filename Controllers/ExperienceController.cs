@@ -28,8 +28,13 @@ namespace MyPortfolioUdemy.Controllers
 
         public IActionResult DeleteExperience(int id)
         {
-            var value = context.Experiences.Find(id);
-            context.Experiences.Remove(value);
+            var values = context.Experiences.Find(id);
+            if (values == null)
+            {
+                return NotFound(); // veya hata mesajı dönebilirsin
+            }
+
+            context.Experiences.Remove(values);
             context.SaveChanges();
             return RedirectToAction("ExperienceList");
         }
