@@ -32,11 +32,11 @@
 
 <h3>★ Proje Kontrol Sayfası</h3>
 <img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/Proje.png" alt="Proje Görseli" />
-<h3>★ Proje Kontrol Sayfası<</h3>
+<h3>★ Referans Kontrol Sayfası</h3>
 <img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/Referans.png" alt="Referans Görseli" />
-<h3>★ Deneyim Kontrol Sayfası<</h3>
+<h3>★ Deneyim Kontrol Sayfası</h3>
 <img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/Deneyim.png" alt="Servisler Görseli" />
-<h3>★ Yapılacaklar Kontrol Sayfası<</h3>
+<h3>★ Yapılacaklar Kontrol Sayfası</h3>
 <img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/ToDoList.png" alt="Portfolyo Görseli" />
 <h3>★ İstatistik Sayfası<</h3>
 <img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/İstatistik.png" alt="Dashboard Görseli" />
