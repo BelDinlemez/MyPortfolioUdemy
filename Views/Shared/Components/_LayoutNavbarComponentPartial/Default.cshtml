@@ -1,5 +1,13 @@
 ﻿@model List<ToDoList>
 
+<style>
+	.profile-photo {
+		width: 36px;
+		height: 36px;
+		object-fit: cover;
+		border-radius: 50%;
+	}
+</style>
 <div class="main-header">
 	<div class="logo-header">
 		<a href="index.html" class="logo">
@@ -73,11 +81,16 @@
 					</ul>
 				</li>
 				<li class="nav-item dropdown">
-					<a class="dropdown-toggle profile-pic" data-toggle="dropdown" href="#" aria-expanded="false"> <img src="~/Ready-Bootstrap-Dashboard-master/assets/img/profile.jpg" alt="user-img" width="36" class="img-circle"><span>Admin</span></a>
+					<a class="dropdown-toggle profile-pic" data-toggle="dropdown" href="#" aria-expanded="false">
+						<img src="https://images.pexels.com/photos/31559016/pexels-photo-31559016/free-photo-of-gun-batiminda-okyanus-kenarinda-gezinen-romantik-cift.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+							 alt="user-img"
+							 class="profile-photo" />
+						<span>Admin</span>
+					</a>
 					<ul class="dropdown-menu dropdown-user">
 						<li>
 							<div class="user-box">
-								<div class="u-img"><img src="@Url.Content("~/Ready-Bootstrap-Dashboard-master/assets/img/profile.jpg")" alt="user"></div>
+								<div class="u-img"><img src="@Url.Content("https://images.pexels.com/photos/31559016/pexels-photo-31559016/free-photo-of-gun-batiminda-okyanus-kenarinda-gezinen-romantik-cift.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")" alt="user"></div>
 								<div class="u-text">
 									<h4>Admin</h4>
 									<p class="text-muted">hello@themekita.com</p>
