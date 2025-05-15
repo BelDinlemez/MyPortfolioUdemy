@@ -22,32 +22,32 @@
 <h3>★ Ana Sayfa</h3>
 <img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/readmeImg/Banner.png" alt="Banner Görseli" />
 <h3>★ Hakkımda</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/Skill.png" alt="Hakkımda Görseli" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/Skill.png" alt="Hakkımda Görseli" />
 <h3>★ Deneyim</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/Experience.png" alt="Deneyim Görseli" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/Experience.png" alt="Deneyim Görseli" />
 <h3>★ Referanslar</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/Testimonial.png" alt="Referans Görseli" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/Testimonial.png" alt="Referans Görseli" />
 
 <h2>🤍Admin Panel Görselleri </h2>
 
 <h3>★ Kategori Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/admincategory.png" alt="Hakkımda Görseli" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/admincategory.png" alt="Hakkımda Görseli" />
 <h3>★ Proje Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/adminproject.png" alt="Özgeçmiş Görseli" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/adminproject.png" alt="Özgeçmiş Görseli" />
 <h3>★ Hakkımda Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/adminabout.png" alt="Servisler Görseli" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/adminabout.png" alt="Servisler Görseli" />
 <h3>★ İletişim Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/admincontact.png" alt="Portfolyo Görseli" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/admincontact.png" alt="Portfolyo Görseli" />
 <h3>★ Eğitim Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/adminedu.png" alt="Referans Görseli" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/adminedu.png" alt="Referans Görseli" />
 <h3>★ Deneyim Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/adminexp.png" alt="İletişim Görseli" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/adminexp.png" alt="İletişim Görseli" />
 <h3>★ Mesaj Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/adminmessage.png" alt="Referans Görseli" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/adminmessage.png" alt="Referans Görseli" />
 <h3>★ Referans Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/admintest.png" alt="İletişim Görseli" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/admintest.png" alt="İletişim Görseli" />
 <h3>★ Hizmet Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/adminservice.png" alt="İletişim Görseli" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/adminservice.png" alt="İletişim Görseli" />
 
 
 
