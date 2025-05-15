@@ -30,25 +30,16 @@
 
 <h2>🤍Admin Panel Görselleri </h2>
 
-<h3>★ Kategori Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/admincategory.png" alt="Hakkımda Görseli" />
-<h3>★ Proje Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/adminproject.png" alt="Özgeçmiş Görseli" />
-<h3>★ Hakkımda Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/adminabout.png" alt="Servisler Görseli" />
-<h3>★ İletişim Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/admincontact.png" alt="Portfolyo Görseli" />
-<h3>★ Eğitim Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/adminedu.png" alt="Referans Görseli" />
-<h3>★ Deneyim Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/adminexp.png" alt="İletişim Görseli" />
-<h3>★ Mesaj Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/adminmessage.png" alt="Referans Görseli" />
-<h3>★ Referans Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/admintest.png" alt="İletişim Görseli" />
-<h3>★ Hizmet Kontrol</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/adminservice.png" alt="İletişim Görseli" />
-
+<h3>★ Proje Kontrol Sayfası</h3>
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/Proje.png" alt="Proje Görseli" />
+<h3>★ Proje Kontrol Sayfası<</h3>
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/Referans.png" alt="Referans Görseli" />
+<h3>★ Deneyim Kontrol Sayfası<</h3>
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/Deneyim.png" alt="Servisler Görseli" />
+<h3>★ Yapılacaklar Kontrol Sayfası<</h3>
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/ToDoList.png" alt="Portfolyo Görseli" />
+<h3>★ İstatistik Sayfası<</h3>
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/master/readmeImg/İstatistik.png" alt="Dashboard Görseli" />
 
 
 
