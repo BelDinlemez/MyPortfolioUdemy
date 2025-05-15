@@ -20,7 +20,7 @@
 <h2>🤍Proje Görseller,</h2>
 
 <h3>★ Ana Sayfa</h3>
-<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/Banner.png" alt="Banner Görseli" />
+<img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/readmeImg/Banner.png" alt="Banner Görseli" />
 <h3>★ Hakkımda</h3>
 <img src="https://raw.githubusercontent.com/BelDinlemez/MyPortfolioUdemy/main/readmeImg/Skill.png" alt="Hakkımda Görseli" />
 <h3>★ Deneyim</h3>
