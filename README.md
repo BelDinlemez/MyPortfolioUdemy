@@ -9,7 +9,6 @@
   <li><strong>Entity Framework Core:</strong> ORM aracı ile veritabanı işlemlerinin nesne yönelimli şekilde yönetilmesi.</li>
   <li><strong>Db-First Yaklaşımı:</strong> SQL Server üzerinde oluşturulan veritabanından modellerin projeye entegre edilmesi.</li>
   <li><strong>LINQ Sorguları:</strong> Veritabanı işlemlerinde filtreleme, sıralama ve sayma gibi işlemler için LINQ kullanımı.</li>
-  <li><strong>Katmanlı Mimari:</strong> Presentation, Business, Data Access ve Entity katmanları ile sürdürülebilir yapı kurulması.</li>
   <li><strong>Admin Paneli Geliştirme:</strong> Tüm içeriklerin (Hakkımda, Portfolyo, Mesajlar vb.) yönetilebildiği dinamik panel oluşturulması.</li>
   <li><strong>CRUD İşlemleri:</strong> Her modül için veri ekleme, listeleme, güncelleme ve silme işlemlerinin eksiksiz uygulanması.</li>
   <li><strong>Data Annotation Validasyonları:</strong> Form doğrulama işlemlerinde hata önleme ve kullanıcı deneyimini iyileştirme.</li>
